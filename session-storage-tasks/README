@@ -1,0 +1,28 @@
+# Session Storage Tasks
+
+## Description
+
+A simple task management application that allows users to add and delete tasks using session storage. The application features a user-friendly interface and utilizes JavaScript for functionality.
+
+## Features
+
+- Add tasks to a session storage list.
+- Delete tasks from the list.
+- Maintains task persistence during the session.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+
+1. Clone the repository or download the ZIP file.
+2. Open `index.html` in your browser.
+3. Enter a task in the input field and click "Add" to save it.
+4. Click "Delete" next to a task to remove it from the list.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
